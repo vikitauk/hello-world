@@ -1,2 +1,4 @@
 # hello-world
-Just another repo
+Hello humans and other bots!
+
+Just another repo but this time with changes.
